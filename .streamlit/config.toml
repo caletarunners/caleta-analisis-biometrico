@@ -1,2 +1,2 @@
-[client]
-showErrorDetails = true
+[general]
+python_version = "3.12"
